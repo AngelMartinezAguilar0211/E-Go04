@@ -1,0 +1,25 @@
+# Binaries
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/producer
+/consumer
+
+# Test and coverage artifacts
+*.out
+*.test
+*.prof
+
+# Large datasets
+*.jsonl
+*.csv
+
+# Operating System and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
